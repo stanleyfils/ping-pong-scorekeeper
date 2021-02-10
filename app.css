@@ -1,0 +1,11 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.winner {
+    color: green;
+}
+
+.loser {
+    color: red;
+}
