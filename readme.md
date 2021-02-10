@@ -1,4 +1,4 @@
-![Ping-Pong-Scorekeeper-Tool](images/screenshot.png)
+![Ping-Pong-Scorekeeper-Tool](./images/screenshot.png)
 
 Ping-Pong Scorekeeper Tool.
 First player to reach the game winning score is highlighted in green.
